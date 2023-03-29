@@ -1,3 +1,5 @@
+Hello everyone, these are the instructions to my little mod.
+
 The effect blocks use copper to operate (they are ConsumeGenerators).
 Every effect block's name is the same as the effect's identifier which it shows. This means that if you like an effect simply write the name of the block showing it into your code, you don't even have to look through the code and find which effect the block uses.
 
