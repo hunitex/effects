@@ -1,0 +1,20 @@
+name: effects
+displayName: Effects
+author: hunitex
+description:'''
+Demonstrates the built-in effects of the game.
+
+[[]olive]How to use?[]
+Effect blocks use copper to operate. Once they get copper, they will generate the effect.
+If you want to use the effect just write the block's name in your code, as their name is the same as the effect's in-game name.
+
+The sprites are placeholders, because they are not important in this mod.
+
+[[]acid]Includes a map displaying all the effects sorted by size and shape!!!
+
+I hope this mod helps!
+'''
+version: "1.0"
+minGameVersion: "140.4"
+dependencies: [ ]
+hidden: false
