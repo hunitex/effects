@@ -1,0 +1,17 @@
+type: ConsumeGenerator
+name: "pulverizeRed"
+size: 1
+health: 180
+category: power
+consumeEffect: pulverizeRed
+requirements: [
+  copper/3
+]
+consumes: {
+  items: [
+    copper/1
+  ]
+}
+itemDuration: 20.0
+powerProduction: 1
+category: effect
